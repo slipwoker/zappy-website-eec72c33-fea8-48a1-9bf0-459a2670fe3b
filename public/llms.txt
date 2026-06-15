@@ -1,0 +1,78 @@
+# Seed Nutrition Secrets — Generative Engine Optimization Map
+
+> Seed Nutrition Secrets is an educational supplement brand focused on seeds and their nutritional benefits. The brand appears to blend education with product offerings, suggesting a mission-driven approach to health and wellness through the power of seed-based nutrition. The name implies a focus on uncovering hidden or lesser-known nutritional knowledge about seeds.
+
+---
+
+## Pages
+
+### Home
+https://seed-nutrition-secrets-eec72c33.zappy5.app
+Discover the hidden nutritional potential of seeds with our natural health supplements. Elevate your wellness journey through science-backed, seed-based formulas. Shop now and feel the difference!
+
+### Features
+https://seed-nutrition-secrets-eec72c33.zappy5.app/features
+Explore our innovative features: from cold-milled seed powders to targeted digestive health supplements that optimize nutrient absorption. See how our formulas outperform the rest. Learn more today!
+
+### About
+https://seed-nutrition-secrets-eec72c33.zappy5.app/about
+We&#39;re on a mission to demystify seed-based sports nutrition supplements. Meet the scientists and nutritionists dedicated to uncovering ancient seed wisdom for modern athletic performance. Join our story!
+
+### Contact
+https://seed-nutrition-secrets-eec72c33.zappy5.app/contact
+Ready to revolutionize your regimen? Reach out for personalized guidance on our nutritional supplements. A seed specialist is standing by to help you thrive. Start your transformation now!
+
+## Legal & Policy
+
+### Privacy Policy
+https://seed-nutrition-secrets-eec72c33.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://seed-nutrition-secrets-eec72c33.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://seed-nutrition-secrets-eec72c33.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://seed-nutrition-secrets-eec72c33.zappy5.app/contact
+- Endpoint: https://seed-nutrition-secrets-eec72c33.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Seed Nutrition Secrets
+Seed Nutrition Secrets is an educational supplement brand focused on seeds and their nutritional benefits. The brand appears to blend education with product offerings, suggesting a mission-driven approach to health and wellness through the power of seed-based nutrition. The name implies a focus on uncovering hidden or lesser-known nutritional knowledge about seeds.
+
+## Target Audience
+- Health-Conscious Enthusiasts
+- Fitness Professionals
+- Wellness-Minded Parents
+
+## Industry
+Health & Nutrition Supplements
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://seed-nutrition-secrets-eec72c33.zappy5.app/sitemap.xml
+- Robots: https://seed-nutrition-secrets-eec72c33.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://seed-nutrition-secrets-eec72c33.zappy5.app/llms-full.txt
